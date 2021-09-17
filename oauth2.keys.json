@@ -1,0 +1,24 @@
+{
+  "web":
+  {
+    "client_id":"190264844211-mt06e42t3ivft3vjc9h1gpsk3pps4m3s.apps.googleusercontent.com",
+    "project_id":"cannedsplam",
+    "auth_uri":"https://accounts.google.com/o/oauth2/auth",
+    "token_uri":"https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret":"ftvAvKr6NwzHCdU1I9k3eSED",
+    "redirect_uris":["https://superadmin.cannedsplam.com",
+      "https://cannedsplam.com",
+      "http://localhost:8000",
+      "http://localhost:5000/callback",
+      "http://localhost:3000/oauth2callback"
+    ],
+    "javascript_origins":
+    [
+      "http://localhost:8000",
+      "https://cannedsplam.com",
+      "https://superadmin.cannedsplam.com",
+      "http://localhost:5000"
+    ]
+  }
+}
